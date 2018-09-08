@@ -3,5 +3,5 @@ $('selector-goes-here')
 
 function paragraphSelector() {
 
-  return $(p);
+  return $('p');
 }
